@@ -99,7 +99,6 @@ protfolio/
 
 ---
 
-**Crafted with ❤️ by Manya Gupta.**
-
 ---
+
 
