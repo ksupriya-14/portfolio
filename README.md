@@ -3,7 +3,7 @@
 Welcome to my personal portfolio!  
 This website showcases my skills, projects, and experiences as a developer.
 
-🚀 **Live Website**: [guptamanya18.github.io/protfolio](https://guptamanya18.github.io/protfolio/)
+🚀 **Live Website**: 
 
 ---
 
@@ -77,10 +77,9 @@ protfolio/
 
 ## 📬 Contact
 
-- **Name:** Manya Gupta
-- **LinkedIn:** [linkedin.com/in/manya-gupta]([https://linkedin.com/in/manya-gupta](https://www.linkedin.com/in/manya-gupta-6971b024a/)) *(Update if needed)*
-- **Email:** manya.mg.gupta@gmail.com *(Update if needed)*
-
+- **Name:**
+- **LinkedIn:** 
+- **Email:** 
 ---
 
 ## ⭐️ If you like this project
@@ -103,3 +102,4 @@ protfolio/
 **Crafted with ❤️ by Manya Gupta.**
 
 ---
+
